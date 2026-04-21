@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b69d463-991a-40f2-b31e-e0c167865610">
+  <stat_objects>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="20318e06-091f-4e2d-b9a0-be631b611df6" />
+        <field name="ParentUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="RaceName" type="FixedStringTableFieldDefinition" value="Dragonborn_Astral_AkELkA" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haa8e4bdag17d7gdbf5g9014g9636f57e3e8e" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc57d2211g97b6ge30bg5192g12ad40b66229" version="3" />
+        <field name="ProgressionTableUUID" type="GuidTableFieldDefinition" value="efe6cad6-6d81-4198-a05d-4be431f18518" />
+        <field name="SkinColors" type="GuidObjectListTableFieldDefinition" value="2b3de7dd-8f69-48f0-a168-d25762add612;08a2bf94-f6da-48a7-ac31-75fc24b54b72;49ee0ba4-bd7b-42ef-ab91-836b2ab2bf9d;6729d914-04a7-44d1-842a-173c9f6bacc3;df9bed29-33a8-452d-b191-d68d260227e8;b88cb06d-a9c0-4b2f-b664-9f9f9977c066;246d49e3-0c62-462d-9b13-35f86da67fa2;cf273b6a-0207-4573-9339-6ced81041310;501cabe9-6073-4882-92bc-eaae36fe3818;e7097eeb-2fb6-4241-9342-f05016277526;40194d3c-aee2-43d1-b9e5-8d7bb941f9ed;3fe7ffae-02d1-40b5-ba28-d7d2d3240414;6c30dcf9-cd6d-4179-8a10-f5d8579d2435;f9d167e8-db54-465f-bdb0-ddaf4652dff8;2b20f7fc-5778-41d1-a7b6-49967734f880;698cf199-3dd7-4bd0-9a13-7b0e6ef26d0f;ba32a021-66d1-47f0-814b-b48afa3b76a1;086a8e05-0638-48dd-bbf5-d4606d4d5a13;0afd7211-3558-46dc-8d38-968e392121a8;fa27458f-f5b1-4da6-8a98-d9fcceac7cdb;158a2298-227f-48a5-ad2b-a2f1d9aeda2f;4cb9e88e-fcb7-4e4d-aed8-8d4f991a5e27;c9ef5e94-ff48-44a4-9385-8368e58aff44;fea8bbf5-96cd-4d85-92c1-f61f2ed05ae6;d9fba316-7576-41eb-90cd-3ca3072386cb;9a45f81b-270c-42ba-8532-1389d91a1ddd;1bcdd733-4416-4972-933d-7bc0f8cbe723;a23362fd-7576-46a7-b816-804810d8b1e2;7f48dbec-e51e-4538-a7cb-2ee32d3f6df7;e5fde90b-0b6f-491f-b3af-d70d86fd33b5;405f2562-2c2e-43d8-88a0-9f9cd44c7d1f;5bb22a98-6556-4595-913f-3fda0b3e8417;f7cd0238-ec6d-46b7-a28d-69a561c68c7e;6f8d8ca2-14d5-4125-af96-781d0ac928e4;b9858b83-bc2b-45be-b81b-be507fac4b85;726b646b-c4a1-492f-97c0-728d6ac9a214;3d777c03-9495-4af0-a993-a2d7c00de084;77251145-9094-4b00-8337-70f422db97a9;85221831-0dca-434c-a649-c9c0e5b3f16b;4d80ba8d-68c7-4163-8b5f-031612430208;d51bab5c-3117-4fe9-b9dc-20f9fb7de1e6;8141b873-ad16-4024-a624-5b78885d210b" />
+        <field name="EyeColors" type="GuidObjectListTableFieldDefinition" value="1f23bc33-08ce-41bf-bc84-b429d76c79c5;b46dce31-1478-4677-a88c-a7479287bfb8;550d4689-1eca-4214-8047-878c34b10210;dea721fe-a7c2-4128-bc99-d6b4516f3212;42adbeb0-6120-446e-a391-c50e389193bf;229f6f78-4122-4185-81ac-8a0f1b696920;7ed2ca92-3037-4b96-b8d4-ed1e5f745e19;178161af-5f24-42ab-8462-783e26bf70c3;a964acf0-88df-47d4-a134-726c86e48808;b80990fd-3cfe-40b2-b69c-dd2ace11b142;bcc067c4-1f34-4401-8d6d-366c558242b6;86f82d6b-d986-4bd3-a016-1267df1b3924;82eac60d-1495-4c06-b36b-4e08a75132f1;814f529d-72de-402f-bb82-22d735d838a6;c7bcd0db-9fab-4213-9fb9-e99dc764c07a" />
+        <field name="DisplayTypeUUID" type="GuidTableFieldDefinition" value="899d275e-9893-490a-9cd5-be856794929f" />
+        <field name="RaceSoundSwitch" type="FixedStringTableFieldDefinition" value="Dragonborn" />
+        <field name="RaceEquipment" type="FixedStringTableFieldDefinition" color="#FF800000" value="EQ_Underwear_Human" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

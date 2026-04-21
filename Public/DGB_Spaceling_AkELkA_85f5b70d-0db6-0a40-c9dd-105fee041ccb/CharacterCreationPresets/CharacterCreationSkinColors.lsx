@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="CharacterCreationSkinColors">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7f287eb4g948bgb314g7b64ga7e3153acdd0" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ab08c841-f36d-4098-afd7-9075b6a9c468"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Luminescence"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF0080C5"/>
+                    <attribute id="UUID" type="guid" value="1bcdd733-4416-4972-933d-7bc0f8cbe723"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb5911515g6541g67dfg25ceg274c4db54f47" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="448f9c2f-0c13-423a-a85d-7b11f739361e"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Wave"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF0074C5"/>
+                    <attribute id="UUID" type="guid" value="b9858b83-bc2b-45be-b81b-be507fac4b85"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h375690afg1a9fge92bgdab9g788f7aaeb0ca" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8cc488fa-ead9-46da-970b-64148818082b"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Butterfly"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF4000A4"/>
+                    <attribute id="UUID" type="guid" value="4cb9e88e-fcb7-4e4d-aed8-8d4f991a5e27"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdb7d0d49g2805g8cecg3a83g1dbc0219fb5e" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f3cc3a84-5fcd-d9f4-d08d-f9722496c572"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Deep_Space_EL"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF273D57"/>
+                    <attribute id="UUID" type="guid" value="c9ef5e94-ff48-44a4-9385-8368e58aff44"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfd4bbbaag05c3gaa68g32d8gc4bd172a799d" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fa7d1b97-4fbb-4fca-a88f-7989cc42cda0"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Shadowed"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF000000"/>
+                    <attribute id="UUID" type="guid" value="a23362fd-7576-46a7-b816-804810d8b1e2"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hefac27cbgba7fg67b3g8f9bg2e763c0e813f" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="474d3b2a-dab4-40be-8a1e-c47f971a1f07"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Vampyrism"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FFAF004E"/>
+                    <attribute id="UUID" type="guid" value="6f8d8ca2-14d5-4125-af96-781d0ac928e4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd38a5ad6gc683gc426gbb97g7e2992628d4f" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="c437fea4-f4cd-41f7-a613-32e93569b3f5"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Dollie"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC70092"/>
+                    <attribute id="UUID" type="guid" value="fea8bbf5-96cd-4d85-92c1-f61f2ed05ae6"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2537e8bag67dag6118gd25egd00a5b4883ad" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5d9fcd3d-6f7b-4ca6-ae57-5231f0d4f70f"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Softness"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FFFBE7DF"/>
+                    <attribute id="UUID" type="guid" value="7f48dbec-e51e-4538-a7cb-2ee32d3f6df7"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc81c2d83gbc3ag9167g45d3g7d9ded57e11a" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f53a36ce-f553-4b4c-b35d-7051df909194"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Sunbeam"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FFFFA078"/>
+                    <attribute id="UUID" type="guid" value="5bb22a98-6556-4595-913f-3fda0b3e8417"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h96cff761g9ccega0b9gf632gdff059beb943" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="2cde2952-f47e-49f6-95c1-30d15d2bf144"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Sour"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF00A065"/>
+                    <attribute id="UUID" type="guid" value="e5fde90b-0b6f-491f-b3af-d70d86fd33b5"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4606cfdeg005fg5de1gf0dcgc4b2ec6a8fe3" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ea7d6206-1a8d-44c3-bab0-f0c43cc86a80"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Undeath"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF006560"/>
+                    <attribute id="UUID" type="guid" value="f7cd0238-ec6d-46b7-a28d-69a561c68c7e"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1726f177g4834g1dfag1112g9cf5653a78b3" version="3"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f25fc439-0a87-489a-87fb-ed4c467de5bc"/>
+                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Weenies"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF83C800"/>
+                    <attribute id="UUID" type="guid" value="3d777c03-9495-4af0-a993-a2d7c00de084"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

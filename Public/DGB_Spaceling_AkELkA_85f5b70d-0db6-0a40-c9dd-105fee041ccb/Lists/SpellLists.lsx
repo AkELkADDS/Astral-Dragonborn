@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Dragonborn Astral Breath"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BreathWeapon_AstralPsyonic_EL_1"/>
+                    <attribute id="UUID" type="guid" value="8e180e25-2ebe-43a5-9d94-68a8829170d9"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

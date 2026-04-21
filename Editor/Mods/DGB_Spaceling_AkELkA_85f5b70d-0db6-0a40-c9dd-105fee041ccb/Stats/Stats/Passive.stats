@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5373dae0-a68d-43dc-ab21-a9129864ea26" />
+        <field name="Name" type="NameTableFieldDefinition" value="EL_DGB_CS_AstralDragonborn_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6863eb31gce77g5340gb90egb46c6eacb188" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h735d56cdg220fg4e37gb653gcd1d435922a0" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Dragonborn_BreathWeapon_Poison" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_AstralPsyonic_EL_1);" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

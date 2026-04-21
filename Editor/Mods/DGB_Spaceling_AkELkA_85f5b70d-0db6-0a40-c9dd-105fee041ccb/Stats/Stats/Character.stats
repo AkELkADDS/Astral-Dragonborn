@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a8098c1a-f86e-11da-bd1a-00112444be1e">
+  <stat_objects>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e0e123c9-982f-4e14-9b06-1171b39a89e4" />
+        <field name="Name" type="NameTableFieldDefinition" value="HeroDragonbornFemale_Astral" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5d3c7d38-4f9a-4581-9dc4-2a7e62c38f7b" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="100" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="56f14419-9daf-48a9-b6a9-1ba2bfcc5c0e" />
+        <field name="Name" type="NameTableFieldDefinition" value="HeroDragonbornMale_Astral" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5d3c7d38-4f9a-4581-9dc4-2a7e62c38f7b" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="100" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

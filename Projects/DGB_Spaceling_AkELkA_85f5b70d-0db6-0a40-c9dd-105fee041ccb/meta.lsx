@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="85f5b70d-0db6-0a40-c9dd-105fee041ccb"/>
+            <attribute id="Name" type="LSString" value="DGB_Spaceling_AkELkA"/>
+            <attribute id="UUID" type="LSString" value="2c207f6d-2c72-5444-0766-56bd957a1561"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

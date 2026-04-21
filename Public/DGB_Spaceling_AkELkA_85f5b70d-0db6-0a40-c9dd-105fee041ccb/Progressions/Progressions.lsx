@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="AstralDragonbornAkELkA"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Dragonborn_Resistance_Necrotic"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8e180e25-2ebe-43a5-9d94-68a8829170d9,Constitution)"/>
+                    <attribute id="TableUUID" type="guid" value="efe6cad6-6d81-4198-a05d-4be431f18518"/>
+                    <attribute id="UUID" type="guid" value="77782f57-5cf9-442e-b90e-8f4468da17d3"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

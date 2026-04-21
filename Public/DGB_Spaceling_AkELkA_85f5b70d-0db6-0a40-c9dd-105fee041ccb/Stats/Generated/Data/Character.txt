@@ -1,0 +1,12 @@
+new entry "HeroDragonbornFemale_Astral"
+type "Character"
+using "_Hero"
+data "Weight" "100"
+data "PsychicResistance" "Resistant"
+
+new entry "HeroDragonbornMale_Astral"
+type "Character"
+using "_Hero"
+data "Weight" "100"
+data "PsychicResistance" "Resistant"
+

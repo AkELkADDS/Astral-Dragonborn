@@ -1,0 +1,8 @@
+new entry "EL_DGB_CS_AstralDragonborn_A"
+type "PassiveData"
+data "DisplayName" "h6863eb31gce77g5340gb90egb46c6eacb188;1"
+data "Description" "h735d56cdg220fg4e37gb653gcd1d435922a0;1"
+data "Icon" "Action_Dragonborn_BreathWeapon_Poison"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Zone_BreathWeapon_AstralPsyonic_EL_1);"
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="53912403-fe14-4ce0-89aa-96acb1dee21a">
+  <stat_objects>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_284" />
+        <field name="UUID" type="IdTableFieldDefinition" value="77782f57-5cf9-442e-b90e-8f4468da17d3" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="efe6cad6-6d81-4198-a05d-4be431f18518" />
+        <field name="FSName" type="StringTableFieldDefinition" value="AstralDragonbornAkELkA" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(8e180e25-2ebe-43a5-9d94-68a8829170d9,Constitution)" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Necrotic" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
