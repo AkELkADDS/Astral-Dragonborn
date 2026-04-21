@@ -264,9 +264,9 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="9480e676-d5a9-460c-a919-cfe74757ddef" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="963d8065-5e99-4c08-aef1-6636a2b58b39" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4e29ffe9gab3fg66b0g2da1g0fa39f442b9a" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_FA" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_FA_SPC" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FA_ReptileFrills" />
       </fields>
     </stat_object>

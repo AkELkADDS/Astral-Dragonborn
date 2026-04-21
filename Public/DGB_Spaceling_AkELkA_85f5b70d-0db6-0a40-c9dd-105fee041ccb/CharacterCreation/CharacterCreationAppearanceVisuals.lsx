@@ -199,7 +199,7 @@
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="2418f581-89aa-4ce6-8c5e-d3593430ef12"/>
-                    <attribute id="VisualResource" type="guid" value="9480e676-d5a9-460c-a919-cfe74757ddef"/>
+                    <attribute id="VisualResource" type="guid" value="963d8065-5e99-4c08-aef1-6636a2b58b39"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
