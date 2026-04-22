@@ -1699,6 +1699,16 @@
                     <attribute id="UUID" type="guid" value="fa01c589-21ce-4a8d-b07b-bb4c2ba06a0a"/>
                     <attribute id="VisualResource" type="guid" value="dcbd13e9-6cc1-41c2-9118-2e9d2f5f5d4d"/>
                 </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hca0dc990g1928g15d7gbbdfgbbb73d6e8c97" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Astral_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="84e68ebd-fcc2-4bd2-a55b-bc3a020d9028"/>
+                    <attribute id="VisualResource" type="guid" value="7b7bebc0-4bca-4ee5-b201-74d16d3ac4aa"/>
+                </node>
             </children>
         </node>
     </region>
