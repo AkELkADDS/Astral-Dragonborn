@@ -5,6 +5,27 @@
         <node id="root">
             <children>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Astral_Head_Durge_C_1"/>
+                    <attribute id="U1" type="float" value="0.62524414"/>
+                    <attribute id="U2" type="float" value="0.68725586"/>
+                    <attribute id="V1" type="float" value="0.18774414"/>
+                    <attribute id="V2" type="float" value="0.24975586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Astral_Head_Durge_C_Clansong"/>
+                    <attribute id="U1" type="float" value="0.75024414"/>
+                    <attribute id="U2" type="float" value="0.81225586"/>
+                    <attribute id="V1" type="float" value="0.18774414"/>
+                    <attribute id="V2" type="float" value="0.24975586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Astral_B"/>
+                    <attribute id="U1" type="float" value="0.68774414"/>
+                    <attribute id="U2" type="float" value="0.74975586"/>
+                    <attribute id="V1" type="float" value="0.18774414"/>
+                    <attribute id="V2" type="float" value="0.24975586"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Chin_0_NoChin_Astral"/>
                     <attribute id="U1" type="float" value="0.00024414062"/>
                     <attribute id="U2" type="float" value="0.062255859"/>

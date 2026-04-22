@@ -12,6 +12,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8416d7e8gdd1bgd837g4454gd2196ca574b0" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Body_DIGI_SPC" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Astral_B" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -25,6 +26,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8f2b2fb0g4523g913eg132eg119c66a3e904" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_SPSL_B" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="Astral_Head_Durge_C_Clansong" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
