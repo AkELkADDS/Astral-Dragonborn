@@ -22,7 +22,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e5bde6a6-7a65-41c1-8813-bab0bf165d32" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8f2b2fb0g4523g913eg132eg119c66a3e904" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8f2b2fb0g4523g913eg132eg119c66a3e904" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_SPSL_B" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
       </fields>
@@ -39,7 +39,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1255e8db-a6cb-49aa-85ad-31742bc4d87b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha780ac5dg87eeg2c3dg1d2eg0d07b0fde0bb" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_EL_Top_MA_R_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_CrestTop_Mangled_Arcuate_R_1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MA_Arcuate_DMH_R_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -54,22 +54,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e1a18fb1-34c0-4654-8669-5ebcfbeabff7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf10fdcbfg89b7g3bdcgf5e2gd2cd3de73c26" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_EL_Top_MA_L_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_CrestTop_Mangled_Arcuate_L_1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1148" />
-        <field name="UUID" type="IdTableFieldDefinition" value="01a4bb95-26ce-4912-9ac1-35ea3a436b47" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="27195cae-2822-44b0-8e39-88e567112603" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6d83f45bge3beg29fdg1147g08b094d6be97" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Jaw_Mangled_L_1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MA_Arcuate_DMH_L_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -84,22 +69,22 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="3317938d-a065-40b4-beff-ea5b01841de2" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h543cefc1g0998g2498g7e71gf29464884b4e" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_R_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Jaw_Mangled_1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_DMH_R_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1154" />
-        <field name="UUID" type="IdTableFieldDefinition" value="fd6f955f-575d-4a63-8f85-9ddcb827e6c8" />
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1148" />
+        <field name="UUID" type="IdTableFieldDefinition" value="01a4bb95-26ce-4912-9ac1-35ea3a436b47" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="780e28fd-a992-4a1f-bef8-fdf597b3c211" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6911118ag00b9g914dg67e3gf79aea00f475" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_B_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Jaw_Mangled_1_Short_L" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="27195cae-2822-44b0-8e39-88e567112603" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6d83f45bge3beg29fdg1147g08b094d6be97" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_SPC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_DMH_L_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -114,7 +99,22 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="daef3992-95d0-412b-990c-94f71021b77c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd1398f0egdb9fg3efdg3906gefe23d171bb9" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_B_R_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Jaw_Mangled_1_Short" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_DMH_B_R_Astral" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1154" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fd6f955f-575d-4a63-8f85-9ddcb827e6c8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="780e28fd-a992-4a1f-bef8-fdf597b3c211" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6911118ag00b9g914dg67e3gf79aea00f475" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_B_SPC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_DMH_B_L_Astral" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -130,7 +130,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h574294ebg3fadga6e5g0a19g1b00561573f3" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_NoCrest_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_0_NoCrest_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -146,7 +146,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_0_NoChin" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_0_NoChin_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -162,7 +162,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heebde480geb46g5900g9f78g9e0802875b63" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Jaw_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_0_NoJaw_Astral" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -177,7 +177,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="971fcacf-ef03-4406-8f9c-8e5f89a2d17e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4380a7aeg2c16g7b22g2ce2g0d72c9754773" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_MA_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MA_Arcuate" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MA_Arcuate_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -192,7 +192,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8d005c76-e096-47c9-9132-07a7339f3a82" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he23d95a1g1cadg41edg757fgc56a0bd59f1e" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_MB_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MB_ClosingClaws" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MB_ClosingClaws_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -207,7 +207,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="55341883-c07a-4b22-8429-428149037116" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h83271864g4fafg56ebgad9dga4f4abcc67cf" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_MC_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MC_GobletHandlers" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MC_GobletHandlers_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -222,7 +222,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="44ee707f-f014-4989-bbb8-451417498198" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he363f448g8a41g920agd5cag4581605df379" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_MD_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MD_QuilledWedge" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MD_QuilledWedge_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -237,7 +237,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e7c381dc-731e-411e-87e0-1c07e7025d4e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h859027e0g8426g360dgc43eg3686767798ac" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_ME_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_ME_MalformedApex" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_ME_MalformedApex_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -252,7 +252,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="99edb2f0-0703-4cc6-b8bb-a326fc51b3ec" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h34725cb0g0324g9900g7417g7596eda0d414" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_MG_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MG_Ophidian" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MG_Ophidian_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -267,7 +267,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="963d8065-5e99-4c08-aef1-6636a2b58b39" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4e29ffe9gab3fg66b0g2da1g0fa39f442b9a" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_FA_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FA_ReptileFrills" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FA_ReptileFrills_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -282,7 +282,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="916262b4-29c1-4ee0-95af-2068688c6db4" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h35d34d30g176cg8e05g22b0g61abe257dde0" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_FB_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FB_PredaciousCrest" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FB_PredaciousCrest_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -297,7 +297,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e1147eb8-d932-4c68-b6af-b8abdf5f78e7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb77a7de7g55a6gf5dag2559gc3f141f6ea7b" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_FC_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FC_SpinousCrown" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FC_SpinousCrown_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -312,7 +312,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="d5b1a96f-b2c6-4b89-9e2d-9ee6ae866484" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8f128abcg72b6g1c45g4b4cgf465bde571f2" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_FD_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FD_HalberdBlades" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FD_HalberdBlades_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -327,7 +327,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8e89553c-b82e-447c-84bc-ae1974449ea4" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h615639dcg34b0gb02eg164bg2f607a47f837" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_FE_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FE_ProudPhalanx" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FE_ProudPhalanx_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -339,10 +339,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="971fcacf-ef03-4406-8f9c-8e5f89a2d17e" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ec39312f-20d2-4401-92ba-d5f4ad1f9ba7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h871934ddg7e46g6454ga85fg8fbfbddde272" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_MA_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MF_Malefic" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_MF_SPC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MF_Malefic_Astral" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -357,7 +357,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="f8df9714-3e0d-4228-84e9-f7e13a65473b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h829a3c61gd61fg35bdg4dbdg233dcb1fecb5" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_MA_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MA_InverseCrown" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MA_InverseCrown_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -372,7 +372,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="d3f3bea6-669f-4f45-b758-19659be3ad3d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3a7b0f4fg1112g2f85gc045g1b41e2661352" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_MA_B_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MA_InverseCrown_Short" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MA_InverseCrown_Short_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -387,7 +387,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="7cccf238-1f52-4bef-9b7c-c7fdf2a4efda" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2f980d9ege86dg3c26gccbfga62ed993bb15" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_MC_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MC_ConciseStrenght" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MC_ConciseStrenght_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -402,7 +402,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="6d5235b8-26d5-4b80-8fb1-1b43f1142df5" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbd6aa705g2a8agcc35gc8ceg12b571a285a6" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_MC_B_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MC_ConciseStrenght_Short" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MC_ConciseStrenght_Short_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -417,7 +417,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="d4568556-5464-41b3-b286-4586b9600b36" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbfc440f4g7143gf48dg4f73g6c2a5dd3d15b" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_MD_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_NestONeedles" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_NestONeedles_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -432,7 +432,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="73ba747b-b9cf-49aa-b20f-ed9b96d394f3" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb6adf44g9b83g2e07g0a82gd7fd9d1e5be3" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_MD_B_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_NestONeedles_Short" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_NestONeedles_Short_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -447,7 +447,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1f9771f0-a166-47ae-bc4e-afe6db7bd7ca" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6aafe9fbg529eg3ae5g50e1gcaf9afc7629b" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_ME_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_ME_Dragonglass" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_ME_Dragonglass_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -462,7 +462,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="13c40bf5-4bee-4a3f-963b-0b27ef79d89a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfd9269cfgdc80g3afeg2858g4a5e82f4ce82" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_ME_B_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_ME_Dragonglass_Short" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_ME_Dragonglass_Short_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -477,7 +477,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b8847b4f-4dad-439c-ab32-1bb3b318dc37" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc9ba29b3g3cf8g6c1eg5e2eg49fae77e2aa0" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_MG_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MG_SharkFins" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MG_SharkFins_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -492,7 +492,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="dd0a8b53-3084-4d8f-a2d2-4c191fa561b1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he33a88bcgb494g60f8g3a50g9815e565c847" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_FA_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FA_TauntingStylus" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FA_TauntingStylus_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -507,7 +507,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="35ee7555-dd7d-451e-ad62-85a2b77b7308" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h21e42431g4a6ega4ceg750bg291680f61d24" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_FB_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FB_CoralRidges" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FB_CoraFrills_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -522,7 +522,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="d19fd0ac-321b-4232-8397-c716c083510e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he3565b1fg9dcfgb720gfeb5g52f38e911d59" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_FC_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FC_PorcupineChops" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FC_PorcupineChops_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -537,7 +537,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="a310c76a-47a7-4405-8f4d-61f542f4a29e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h853d32f6g5d18g1ea1g8768g3b239b9b74c8" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_FD_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FD_JawsOfRuin" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FD_JawsOfRuin_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -552,7 +552,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="72ee1ca5-13d6-4917-b30f-41657f35c690" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h20a7dff6gfe82ga553g6630g9cea3a8595b9" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_FD_B_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FD_JawsOfRuin_Short" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FD_JawsOfRuin_Short_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -567,7 +567,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="f4a22e3b-5ba1-4ce7-afa4-2f97c69ae1ff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbd80428ag1e38g19cdgbe6dg55d4e8847fbc" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_FE_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FE_SombreCalamity" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FE_SombreCalamity_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -582,7 +582,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="531eac2e-fd0b-4b7e-a7aa-493c72588317" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc9431669g5bb5gec0dg211fg07a05e5efdcb" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_MF_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MF_RoyalPlateau" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MF_RoyalPlateau_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -597,7 +597,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="7f2b3597-3797-4c8a-b8be-0a7279aba922" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h86706a5cg8c9bgd026g2900g5d2c832b7601" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_MF_B_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MF_RoyalPlateau_Short" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MF_RoyalPlateau_Short_Astral" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -612,7 +612,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9c6fdd2e-852a-4437-8bb0-6c38c1fd2b46" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hea53acacg33eegb095g1a04g37702c5900b9" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MA_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MA_DaggerPommel" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MA_DaggerPommel_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -627,7 +627,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b351ddbd-8b28-4718-8b9c-29e3b01a1929" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8d591c47g5b70gd5ebge172ga45b815794eb" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MC_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MC_Calcified" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MC_Calcified_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -642,7 +642,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="75734fd2-87cd-47dc-afe3-6c0c782deddf" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h93dfde03g1945g2907gd987g34ee6e739e02" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MD_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MD_Chintacle" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MD_Chintacle_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -657,7 +657,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="496379f6-a031-4990-9627-e235b95973ae" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h458305cfg8890gbac5gb241gdfbb9cb7d43d" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_ME_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_ME_WaltzingFangs" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_ME_WaltzingFangs_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -672,7 +672,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="75b7745a-5208-4fea-8885-3deadb9900af" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb9896875gc1e4g66c8ge149g9a71d8786395" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MG_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MG_Stentorian" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MG_Stentorian_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -687,7 +687,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="70078abe-861c-4b05-bf87-20098ae2fca1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h57547612gd921g7f78g15a1gc7d1c499a261" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_FA_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FA_CliffJut" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FA_CliffJut_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -702,7 +702,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ac34b169-5597-4d9f-a56c-15e0d87a0dd6" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc2750ecfg7929gc559g7e59g7881599d0f04" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_FB_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FB_JewelPoint" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FB_JewelPoint_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -717,7 +717,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="bc60e21b-0ee1-46ad-a1b0-b55e5c88aa62" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha1aabb0dg9712g7474gce26g9150f145e7dd" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_FC_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FC_Stalactite" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FC_Stalactite_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -732,7 +732,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="2760afe9-efa1-43aa-9cb7-e401c1762594" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd4e1592ag026egd708gbc3cg5799ad05b3be" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_FD_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FD_Pinnacle" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FD_Pinnacle_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -747,7 +747,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="cd83e931-4bcb-42a3-93ba-aca919f1d941" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf3f2ce65gc4aag2186g28bfg8ec9113966cb" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_FE_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FE_Apogee" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_FE_Apogee_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -762,7 +762,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="db0942bf-6e55-4f0c-83d3-dd47f0b9753d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3187f116g1de8gbf86g74dbgd258f161dc96" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MF_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MF_HatchetSpike" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Chin_MF_HatchetSpike_Astral" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -777,7 +777,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="47c5c6b1-b928-4579-98f8-bd129d571b02" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdfcd3d51g30d3gaaf4g8808g4ba82aa76dd9" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_Pearl_CoralRFrills_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Pearl_Frills" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FB_CoraFrills_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -792,7 +792,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="183a4a35-8212-433e-920f-33da4db64bd1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2a04eb0fg7e55g9a6dgb38ag70fe1af54116" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_Pearl_AntlersFrills_PRC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Pearl_DPlain" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_FC_SeaDrA_Astral" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -805,7 +805,7 @@
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf382642bg6e12g1da5gd3bdgf7e38b5f3311" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_SA_DGBC_Slayer" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MD_SlayerA_C_Astral" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="08eca766-8902-41d8-97cc-4528bd0ccc31" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_Vexa_MD_VexaC_SPC" />
       </fields>
@@ -820,7 +820,7 @@
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc55dc355gb4d5g61c5g1f3bg3bee0dc3e10e" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_SA_DGBB_L_Slayer" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MD_SlayerA_B_L_Astral" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b1b44fe7-9cde-4b8c-bfe3-b99ffef4aa48" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_Vexa_MD_Vexa_L_SPC" />
       </fields>
@@ -835,7 +835,7 @@
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0a51e3f6gfb9fg3313g7f92g5e5628cb1514" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_SA_DGBB_R_Slayer" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MD_SlayerA_B_R_Astral" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="2ec4c4d2-19f1-4626-9a85-44e638cfafb3" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_Vexa_MD_Vexa_R_SPC" />
       </fields>
@@ -850,7 +850,7 @@
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8f40d6d6g080agd49eg9b6fg139bbcc034ee" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_SA_DGBC_Slayer" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_SlayerA_C_Astral" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0fbf3ede-dd0c-4506-b8ed-efd4e1325ff8" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_Vexa_C_SPC" />
       </fields>
@@ -865,7 +865,7 @@
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha7d3038eg3e8dg5cabgdbcdg011e284946b2" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_SA_DGBB_L_Slayer" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_SlayerA_B_L_Astral" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="97651fa4-fd77-4d53-b560-6e7117573f26" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_Vexa_L_SPC" />
       </fields>
@@ -880,7 +880,7 @@
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="72866429-2aad-49af-97af-c29b3076e865" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1e702542g3d85g6910g8d51g2213b0a898de" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_SA_DGBB_R_Slayer" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_MD_SlayerA_B_R_Astral" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="47123121-d102-47fd-9ee2-64ff25bf05c0" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_Vexa_R_SPC" />
       </fields>
@@ -897,7 +897,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="7724dde2-47e9-42a5-b394-80c0ddc51d84" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heba639aeg5237ge91age88dg578a262253a0" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Top_Reforged_Clean_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="RathA_TopA_1_C" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_CrestTop_MC_Reforged_Clean_Astral" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
