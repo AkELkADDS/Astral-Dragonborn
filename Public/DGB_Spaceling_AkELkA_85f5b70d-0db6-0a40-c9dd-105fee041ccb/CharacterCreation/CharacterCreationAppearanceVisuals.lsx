@@ -373,7 +373,7 @@
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h21e42431g4a6ega4ceg750bg291680f61d24" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="72866429-2aad-49af-97af-c29b3076e865"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_FB_CoraFrills_Astral"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Jaw_FB_CoralRidges_Astral"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="555734f9-704a-4f65-a310-c05fbfd98897"/>

@@ -509,7 +509,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="35ee7555-dd7d-451e-ad62-85a2b77b7308" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h21e42431g4a6ega4ceg750bg291680f61d24" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Durge_MinscSK_C_Jaw_FB_SPC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FB_CoraFrills_Astral" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Jaw_FB_CoralRidges_Astral" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

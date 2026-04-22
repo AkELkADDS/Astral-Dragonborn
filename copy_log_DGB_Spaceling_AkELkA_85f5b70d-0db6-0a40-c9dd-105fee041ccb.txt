@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb 
-   Wed 04/22/2026 14:23:41.03 
+   Wed 04/22/2026 14:47:43.21 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -347,7 +347,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 22, 2026 2:23:44 PM
+  Started : Wednesday, April 22, 2026 2:47:46 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Projects\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
 
@@ -371,7 +371,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           486031000 Bytes/sec.
    Speed :           27810.916 MegaBytes/min.
-   Ended : Wednesday, April 22, 2026 2:23:44 PM
+   Ended : Wednesday, April 22, 2026 2:47:46 PM
 
  
 [DEBUG] Counting source files 
@@ -397,7 +397,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 22, 2026 2:23:46 PM
+  Started : Wednesday, April 22, 2026 2:47:48 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
 
@@ -407,10 +407,10 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  223446	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 	    New File  		     142	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreationPresets\CharacterCreationEyeColors.tbl100%  
 	    New File  		    3021	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreationPresets\CharacterCreationPresets.tbl100%  
 	    New File  		   10851	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreationPresets\CharacterCreationSkinColors.tbl100%  
+	    New File  		  223447	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 	    New File  		     582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Lists\SpellLists.tbl100%  
 	    New File  		    1079	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Progressions\Progressions.tbl100%  
 	    New File  		    3708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Races\Races.tbl100%  
@@ -427,9 +427,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            62369250 Bytes/sec.
-   Speed :            3568.797 MegaBytes/min.
-   Ended : Wednesday, April 22, 2026 2:23:46 PM
+   Speed :            49895600 Bytes/sec.
+   Speed :            2855.049 MegaBytes/min.
+   Ended : Wednesday, April 22, 2026 2:47:48 PM
 
  
 [DEBUG] Counting source files 
@@ -455,7 +455,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 22, 2026 2:23:48 PM
+  Started : Wednesday, April 22, 2026 2:47:51 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
 
@@ -465,7 +465,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   23422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\meta.lsx100%  
+	    New File  		   22700	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\meta.lsx100%  
 	    New File  		  485332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\mod_publish_logo.png100%  
 	    New File  		   23876	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Localization\English\english.xml100%  
 
@@ -474,13 +474,13 @@ SECTION 2: COPY OPERATIONS
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         3         3         1         0         0         0
    Files :         3         3         0         0         0         0
-   Bytes :   520.1 k   520.1 k         0         0         0         0
+   Bytes :   519.4 k   519.4 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           532630000 Bytes/sec.
-   Speed :           30477.333 MegaBytes/min.
-   Ended : Wednesday, April 22, 2026 2:23:48 PM
+   Speed :           531908000 Bytes/sec.
+   Speed :           30436.019 MegaBytes/min.
+   Ended : Wednesday, April 22, 2026 2:47:51 PM
 
  
 [DEBUG] Counting source files 
@@ -506,7 +506,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 22, 2026 2:23:50 PM
+  Started : Wednesday, April 22, 2026 2:47:53 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
 
@@ -516,13 +516,13 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  152926	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		  152927	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreationPresets\CharacterCreationEyeColors.lsx100%  
 	    New File  		    2327	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreationPresets\CharacterCreationPresets.lsx100%  
 	    New File  		    8540	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\CharacterCreationPresets\CharacterCreationSkinColors.lsx100%  
 	    New File  		   29413	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\GUI\Astral_DGB_A_Atlas.lsx100%  
-	    New File  		     990	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Progressions\Progressions.lsx100%  
 	    New File  		     608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Lists\SpellLists.lsx100%  
+	    New File  		     990	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Progressions\Progressions.lsx100%  
 	    New File  		   12102	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Races\Races.lsx100%  
 	    New File  		    2564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\RootTemplates\1e4b6df9-3b40-4d79-963d-ead58b07016c.lsf100%  
 	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\RootTemplates\38c850e1-0a33-4bcc-8084-5d842f09391a.lsf100%  
@@ -530,15 +530,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\RootTemplates\9de2c328-f4b5-4ce0-ab97-cf79b4d385cf.lsf100%  
 	    New File  		   48204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\HBRD_W_Spaceling\SPC_HBRD_Durge\DGB_M_NKD_Head_Durge_HBRD_MinscSK_BASE_SPC_A.GR2100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Assets\Textures\Icons\Astral_DGB_A_Atlas.dds100%  
-	    New File  		   2.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Body\DGB_M_NKD_Body_A_SPC_EL.GR2100%  
-	    New File  		     158	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Body\DGB_M_NKD_Body_A_SPC_EL.xml100%  
-	    New File  		   2.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Body\DGB_M_NKD_Body_B_EL_2_Body_DIGI_SPC.GR2100%  
-	    New File  		     170	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Body\DGB_M_NKD_Body_B_EL_2_Body_DIGI_SPC.xml100%  
-	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Female\Body\DGB_F_NKD_Body_A_SPC_EL.GR2100%  
-	    New File  		     160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Female\Body\DGB_F_NKD_Body_A_SPC_EL.xml100%  
-	    New File  		   1.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Head\DGB_M_NKD_Head_Durge_MinscSK_SPC_B.GR2100%  
-	    New File  		     174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Head\DGB_M_NKD_Head_Durge_MinscSK_SPC_B.xml100%  
-	    New File  		  666884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Head\DGB_M_NKD_Head_Durge_MinscSK_SPSL_A.GR2100%  
 	    New File  		    8287	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Content\DGB_Spaceling\[PAK]_DGB_SPC_Shared\03a5b23e-dd8e-59d7-3abb-4c2cd5e62578.lsf100%  
 	    New File  		    7421	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Content\DGB_Spaceling\[PAK]_DGB_SPC_Shared\0ac583d5-50e1-0c17-a6aa-6e64d5b9834d.lsf100%  
 	    New File  		    2812	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Content\DGB_Spaceling\[PAK]_DGB_SPC_Shared\24cc4d73-5f44-0464-fc2c-2ef69112a8f4.lsf100%  
@@ -616,6 +607,15 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2842	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Content\HBRD_W_Spaceling\[PAK]_SPC_HBRD_Durge\ec39312f-20d2-4401-92ba-d5f4ad1f9ba7.lsf100%  
 	    New File  		    2789	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Content\HBRD_W_Spaceling\[PAK]_SPC_HBRD_Durge\f4a22e3b-5ba1-4ce7-afa4-2f97c69ae1ff.lsf100%  
 	    New File  		    2789	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Content\HBRD_W_Spaceling\[PAK]_SPC_HBRD_Durge\f8df9714-3e0d-4228-84e9-f7e13a65473b.lsf100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Female\Body\DGB_F_NKD_Body_A_SPC_EL.GR2100%  
+	    New File  		     160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Female\Body\DGB_F_NKD_Body_A_SPC_EL.xml100%  
+	    New File  		   2.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Body\DGB_M_NKD_Body_A_SPC_EL.GR2100%  
+	    New File  		     158	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Body\DGB_M_NKD_Body_A_SPC_EL.xml100%  
+	    New File  		   2.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Body\DGB_M_NKD_Body_B_EL_2_Body_DIGI_SPC.GR2100%  
+	    New File  		     170	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Body\DGB_M_NKD_Body_B_EL_2_Body_DIGI_SPC.xml100%  
+	    New File  		   1.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Head\DGB_M_NKD_Head_Durge_MinscSK_SPC_B.GR2100%  
+	    New File  		     174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Head\DGB_M_NKD_Head_Durge_MinscSK_SPC_B.xml100%  
+	    New File  		  666884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\Head\DGB_M_NKD_Head_Durge_MinscSK_SPSL_A.GR2100%  
 	    New File  		     268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Stats\Generated\Data\Character.txt100%  
 	    New File  		     342	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Stats\Generated\Data\Passive.txt100%  
 	    New File  		    1721	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Stats\Generated\Data\Spell_Zone.txt100%  
@@ -636,10 +636,13 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  390212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MD_SPC.GR2100%  
 	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MD_SPC.xml100%  
 	    New File  		  109292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_ME_SPC.GR2100%  
-	    New File  		  533624	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_B_R_SPC.GR2100%  
 	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_ME_SPC.xml100%  
-	    New File  		  533332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_B_SPC.GR2100%  
 	    New File  		  110116	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MF_SPC.GR2100%  
+	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MF_SPC.xml100%  
+	    New File  		  176220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MG_SPC.GR2100%  
+	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MG_SPC.xml100%  
+	    New File  		  533624	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_B_R_SPC.GR2100%  
+	    New File  		  533332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_B_SPC.GR2100%  
 	    New File  		  728796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_R_SPC.GR2100%  
 	    New File  		  728504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_EL_Jaw_MD_SPC.GR2100%  
 	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_EL_Top_MA_L_SPC.GR2100%  
@@ -651,9 +654,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   2.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_Top_FB_SPC.GR2100%  
 	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_Top_FB_SPC.xml100%  
 	    New File  		   5.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_Top_FC_SPC.GR2100%  
-	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MF_SPC.xml100%  
-	    New File  		  176220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MG_SPC.GR2100%  
-	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Chin\DGB_M_NKD_Head_Durge_MinscSK_C_Chin_MG_SPC.xml100%  
 	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_Top_FC_SPC.xml100%  
 	    New File  		   2.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_Top_FD_SPC.GR2100%  
 	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\DGB_Spaceling\Male\HBRD_Durge\Crest\DGB_M_NKD_Head_Durge_MinscSK_C_Top_FD_SPC.xml100%  
@@ -746,9 +746,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2066533865 Bytes/sec.
-   Speed :           118248.016 MegaBytes/min.
-   Ended : Wednesday, April 22, 2026 2:23:51 PM
+   Speed :           1705710507 Bytes/sec.
+   Speed :            97601.538 MegaBytes/min.
+   Ended : Wednesday, April 22, 2026 2:47:53 PM
 
  
 [DEBUG] Counting source files 
@@ -774,7 +774,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 22, 2026 2:23:53 PM
+  Started : Wednesday, April 22, 2026 2:47:55 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\Generated\Public\DGB_Spaceling_AkELkA_85f5b70d-0db6-0a40-c9dd-105fee041ccb\
 
@@ -856,7 +856,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           3713737000 Bytes/sec.
    Speed :           212501.735 MegaBytes/min.
-   Ended : Wednesday, April 22, 2026 2:23:53 PM
+   Ended : Wednesday, April 22, 2026 2:47:55 PM
 
  
 [DEBUG] Counting source files 
