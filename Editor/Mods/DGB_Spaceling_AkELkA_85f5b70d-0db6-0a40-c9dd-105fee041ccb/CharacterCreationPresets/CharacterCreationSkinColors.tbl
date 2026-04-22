@@ -60,9 +60,9 @@
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
         <field name="UUID" type="IdTableFieldDefinition" value="6f8d8ca2-14d5-4125-af96-781d0ac928e4" />
-        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Spaceling_SkinColor_Vampyrism" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hefac27cbgba7fg67b3g8f9bg2e763c0e813f" version="3" />
-        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="474d3b2a-dab4-40be-8a1e-c47f971a1f07" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_SPC_Black_Pink_1_Astral_Vampirism" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hefac27cbgba7fg67b3g8f9bg2e763c0e813f" version="4" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="409f1284-41cf-4844-b5ed-8a38be9206a3" />
         <field name="UIColor" type="ColorTableFieldDefinition" value="#FFAF004E" />
         <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
       </fields>

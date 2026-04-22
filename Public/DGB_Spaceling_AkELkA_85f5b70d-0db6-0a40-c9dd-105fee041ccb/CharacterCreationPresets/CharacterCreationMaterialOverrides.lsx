@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="CharacterCreationMaterialOverrides">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_H_3Talons_SPC_Cracked_EL_1"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="b07c84b5-cea0-e26b-9130-7c6db6360946"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="7870af1a-f662-175f-35e9-48acde3fbb75"/>
+                    <attribute id="UUID" type="guid" value="733cb9a8-46b3-4ada-a847-afc7d6c84796"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_H_3Talons_SPC_Cracked_Leg_EL_1"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="34d170d0-8723-bcd8-632b-bb4d07f86c2d"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="06448894-7353-9ffd-da40-9ba217cc3014"/>
+                    <attribute id="UUID" type="guid" value="cc08e3ea-d1a6-4123-ae01-0c4c40d910c4"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

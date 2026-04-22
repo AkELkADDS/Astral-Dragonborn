@@ -45,9 +45,9 @@
                     <attribute id="UUID" type="guid" value="a23362fd-7576-46a7-b816-804810d8b1e2"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
-                    <attribute id="DisplayName" type="TranslatedString" handle="hefac27cbgba7fg67b3g8f9bg2e763c0e813f" version="3"/>
-                    <attribute id="MaterialPresetUUID" type="guid" value="474d3b2a-dab4-40be-8a1e-c47f971a1f07"/>
-                    <attribute id="Name" type="FixedString" value="Spaceling_SkinColor_Vampyrism"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hefac27cbgba7fg67b3g8f9bg2e763c0e813f" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="409f1284-41cf-4844-b5ed-8a38be9206a3"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_SPC_Black_Pink_1_Astral_Vampirism"/>
                     <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
                     <attribute id="UIColor" type="LSString" value="#FFAF004E"/>
                     <attribute id="UUID" type="guid" value="6f8d8ca2-14d5-4125-af96-781d0ac928e4"/>
