@@ -8,7 +8,7 @@
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="4dfde3b3-a760-4100-bf89-896533017045" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="8c8f5ba8-7aa6-4926-b602-4d6b0d9c442c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8416d7e8gdd1bgd837g4454gd2196ca574b0" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Body_DIGI_SPC" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
@@ -23,7 +23,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="7b7bebc0-4bca-4ee5-b201-74d16d3ac4aa" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hca0dc990g1928g15d7gbbdfgbbb73d6e8c97" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hca0dc990g1928g15d7gbbdfgbbb73d6e8c97" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_Clawstep_3Talons_SPC_Cracked_H" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Astral_B" />
